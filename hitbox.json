@@ -1,0 +1,10 @@
+{
+  "pichu": {
+    "dtilt": [40, 80, 6.0, 50, "7-8", 19, "None", "Struggleton & Invy", 
+      "https://cdn.discordapp.com/attachments/644002255187738635/645593181911646238/Down_Tilt.gif"],
+    "uptilt": [32, 95, 8.0, 105, "7-14", 24, "None", "Struggleton & Invy", 
+      "https://cdn.discordapp.com/attachments/644002255187738635/645523780642275373/Up_Tilt.gif"],
+    "ftilt": [5, 361, 8.0, 130, "5-12", 25, "0.7%", "Struggleton & Invy", 
+      "https://cdn.discordapp.com/attachments/644002255187738635/645226432972324884/Forward_Tilt.gif"]
+  }
+}
